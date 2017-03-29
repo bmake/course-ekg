@@ -1,4 +1,6 @@
 # Enterprise Knowledge Graphs (EKG) and Related Technologies
+Practical insights in the development of EKG applications
+
 ## Content
 - Use cases for EKG
 - Real world EKG applications
