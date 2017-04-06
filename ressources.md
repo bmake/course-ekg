@@ -9,7 +9,7 @@
 
 ### Knowledge Engineering
 - Protégé and Web protégé
-- Topraid Composer
+- Topbraid Composer
 
 ### Editors
 - rdfEditor (Windows)
